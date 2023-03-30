@@ -9,7 +9,12 @@ import SwiftUI
 
 struct UploadImageView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack{
+            Image(systemName: "figure.walk.diamond")
+                .font(.system(size:75))
+            Text("Under Construction!")
+                .font(.system(size:25))
+        }
     }
 }
 

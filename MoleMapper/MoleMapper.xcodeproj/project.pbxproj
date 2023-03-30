@@ -18,6 +18,7 @@
 		8DAA686829D5D73B00E85D16 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA686729D5D73B00E85D16 /* SplashScreenView.swift */; };
 		8DC21C2C29D634E70010A757 /* AcquireImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC21C2B29D634E70010A757 /* AcquireImageView.swift */; };
 		8DC21C2E29D63CE30010A757 /* DateSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC21C2D29D63CE30010A757 /* DateSelectionView.swift */; };
+		8DC21C3029D643F90010A757 /* DataDisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC21C2F29D643F90010A757 /* DataDisplayView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		8DAA686729D5D73B00E85D16 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 		8DC21C2B29D634E70010A757 /* AcquireImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AcquireImageView.swift; sourceTree = "<group>"; };
 		8DC21C2D29D63CE30010A757 /* DateSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateSelectionView.swift; sourceTree = "<group>"; };
+		8DC21C2F29D643F90010A757 /* DataDisplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataDisplayView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				8DAA684329D5D4A000E85D16 /* Preview Content */,
 				8DA0E07429D6272C00DB1DBB /* UploadImageView.swift */,
 				8DC21C2D29D63CE30010A757 /* DateSelectionView.swift */,
+				8DC21C2F29D643F90010A757 /* DataDisplayView.swift */,
 			);
 			path = MoleMapper;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8DC21C3029D643F90010A757 /* DataDisplayView.swift in Sources */,
 				8DAA684029D5D49F00E85D16 /* ContentView.swift in Sources */,
 				8DC21C2E29D63CE30010A757 /* DateSelectionView.swift in Sources */,
 				8DAA683E29D5D49F00E85D16 /* MoleMapperApp.swift in Sources */,

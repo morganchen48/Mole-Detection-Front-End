@@ -8,7 +8,7 @@
 import SwiftUI
 struct ContentView: View {
     let buttonColor = Color(red: 0.97, green: 0.596, blue: 0.502)
-    let backgroundColor = Color(red: 0, green: 1, blue: 1)
+    let backgroundColor = Color(red: 1, green: 0.5, blue: 0)
     var body: some View {
         NavigationView{
             ZStack{
