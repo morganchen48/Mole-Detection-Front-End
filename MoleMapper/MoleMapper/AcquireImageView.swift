@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import PhotosUI
 
 struct AcquireImageView: View {
     var body: some View {
@@ -15,9 +16,8 @@ struct AcquireImageView: View {
             Text("Under Construction!")
                 .font(.system(size:25))
         }
-        
-        
     }
+
 }
 
 struct AcquireImageView_Previews: PreviewProvider {
