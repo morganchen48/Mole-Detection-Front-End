@@ -17,7 +17,6 @@ struct AcquireImageView: View {
                 .font(.system(size:25))
         }
     }
-
 }
 
 struct AcquireImageView_Previews: PreviewProvider {
